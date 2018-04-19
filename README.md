@@ -3,7 +3,7 @@ Algorithms created during Spring 2018 Semester for Mech 105
 # Purpose
 This repository contains numerical method algorithms that were created for a mechanical engineering course at CSU.
 # Contains
-# falsePosition
+## falsePosition
 A function that uses the false position method to return the estimated root location, value of the function
 at that location, approximate relative error, and how many iterations were
 performed for a given function, lower guess, upper guess, desired relative
@@ -25,7 +25,7 @@ Approximate Relative Error:
 Iterations Performed:
 3
 ```
-# luFactor
+## luFactor
 luFactor is a function that determines the LU Factorization of an inputted square matrix, A,
 which must have the same number of rows and columns.
 Outputs a lower triangular matrix, L, an upper triangular matrix, U,  and
@@ -57,7 +57,7 @@ luFactor(matrix)
      0     1     0
      0     0     1
 ```
-# Simpson
+## Simpson
 This function performs Simpson's 1/3 Rule on a given set of x and y values. X
 and y vectors must be the same length and the x input must be equally
 spaced. If there are an odd number of intervals, the trapezoidal rule will
