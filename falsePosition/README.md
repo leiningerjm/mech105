@@ -15,7 +15,7 @@ error, and max number of iterations.
 * ea - the approximate relative error
 * iter how many iterations were performed
 # Defaults and Limitations
-* It is **HIGHLY** recommended to use a symbolic function as your function input, see example below
+* It is **HIGHLY** recommended to use an anonymous function as your function input, see example below
 * The desired relative error will default to 0.0001%
 * The max iterations will defualt to 200
 * The user's lower and upper guess must bracket the root
