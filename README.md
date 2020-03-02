@@ -1,5 +1,5 @@
-# mech105-algorithms
-Algorithms created during Spring 2018 Semester for Mech 105
+# numericalMethod-Algorithms
+Algorithms created during Spring 2018 Semester
 # Purpose
 This repository contains numerical method algorithms that were created for a mechanical engineering course at CSU.
 # Contains
