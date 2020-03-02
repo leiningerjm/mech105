@@ -1,5 +1,5 @@
 # numericalMethod-Algorithms
-Algorithms created during Spring 2018 Semester
+False Position, LU Factorization, and Simpson's Rule
 # Purpose
 This repository contains numerical method algorithms that were created for a mechanical engineering course at CSU.
 # Contains
